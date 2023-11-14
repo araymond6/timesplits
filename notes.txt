@@ -1,0 +1,5 @@
+Tag					It is a string representing the type of data being stored
+Attributes			Consists of a number of attributes stored as dictionaries
+Text String			A text string having information that needs to be displayed
+Tail String			Can also have tail strings if necessary
+Child Elements		Consists of a number of  child elements stored as sequences
